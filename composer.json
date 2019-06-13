@@ -1,0 +1,10 @@
+{
+    "name": "recycledbeans/is-base64",
+    "description": "Adds a quick and easy method for determining whether a string is base64-encoded.",
+    "keywords": ["php", "base64", "encoded", "base64_encode", "base64 encoded"],
+    "version": "1.0.0",
+    "autoload": {
+        "files": ["src/Base64.php"]
+    },
+    "license": "MIT"
+}
