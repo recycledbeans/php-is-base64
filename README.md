@@ -45,7 +45,7 @@ Useful when you do not want to have to check whether something is encoded before
 
 ```php
 
-$my_encoded_string = is_base64_encode($_REQUEST['could_be_base64_encoded_or_not']); // returns decoded string
+$my_encoded_string = is_base64_decode($_REQUEST['could_be_base64_encoded_or_not']); // returns decoded string
 
 ```
 
