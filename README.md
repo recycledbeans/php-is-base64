@@ -1,6 +1,6 @@
 # PHP is_base64
 
-This package does one simple thing: _it adds some nice helper functions to know whether a text string is base64-encoded or not_.
+From time to time, I've found it necessary to validate whether a bit of text is already encoded in base64. Since PHP does not include an easy function to do this, I decided to write this. This package does one simple thing: _it adds some nice helper functions to know whether a text string is base64-encoded or not_.
 
 ### Installation
 
