@@ -1,6 +1,6 @@
 # PHP is_base64
 
-This package does one simple thing: _it adds a global function to determine whether a string is base64-encoded_.
+This package does one simple thing: _it adds some nice helper functions to know whether a text string is base64-encoded or not_.
 
 ### Installation
 
@@ -8,13 +8,6 @@ You can easily install with composer:
 
 `composer require recycledbeans/is-base64`
 
-or you can download the source and require a single file:
-
-```php
-<?php 
-
-require_once('src/Base64.php');
-```
 
 ### Usage
 
